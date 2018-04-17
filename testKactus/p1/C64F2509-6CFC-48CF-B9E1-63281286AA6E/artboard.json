@@ -45,6 +45,18 @@
     {
       "class": "text",
       "id": "28424E93-CBE6-46ED-BA43-B184743955AA"
+    },
+    {
+      "class": "text",
+      "id": "34A0D8FF-26BC-4E36-913E-ED4506E65EFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C33BDD67-D728-48E2-A9E1-5F70D7B6CA5E"
+    },
+    {
+      "class": "bitmap",
+      "id": "52464C5A-B6BB-4B69-ACB9-774D7FF7F3B5"
     }
   ],
   "name": "testK",
